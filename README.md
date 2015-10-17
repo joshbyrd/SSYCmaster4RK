@@ -1,0 +1,2 @@
+# SSYCmaster
+Starting template
