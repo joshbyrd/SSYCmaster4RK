@@ -32,14 +32,7 @@
 <div id="wrapper">
 	<nav>
 
-	<ul>
-    <li><a href="index.html">HOME</a></li> 
-    <li><a href="">ABOUT US</a></li>
-    <li><a href="">MEMBERSHIP</a></li>
-	<li><a href="">BOATING</a></li>
-    <li><a href="">EVENTS</a></li>
-    <li><a href="">CONTACT US</a></li>
-	</ul>
+	<?php wp_nav_menu( array('theme_location' => 'main')) ?>
 
 	</nav>
 
