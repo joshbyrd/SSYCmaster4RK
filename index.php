@@ -1,6 +1,10 @@
-<?php
+//index.php
+<?php get_header(); ?>
 
-get_header();?>
+<?php get_sidebar(); ?>
+
+<?php title(); ?>
+
 <div id="wrapper">
 
 	<nav>
@@ -105,4 +109,4 @@ get_header();?>
 </aside>
 </div><!--end #wrapper div-->
 
-<?php get_footer();?>
+<?php get_footer(); ?>

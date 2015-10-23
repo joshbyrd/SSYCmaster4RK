@@ -1,3 +1,4 @@
+//header.php
 <?php
 /*
     Template Designed by SSYC WebTeam
@@ -28,11 +29,12 @@
     <nav>
 
 	<ul>
-    <li><a href="index.html">HOME</a></li> 
+    <li><a href="index.php">HOME</a></li> 
     <li><a href="">ABOUT US</a></li>
     <li><a href="">MEMBERSHIP</a></li>
 	<li><a href="">BOATING</a></li>
     <li><a href="">EVENTS</a></li>
+    <li><a href="">NEWS</a></li>
     <li><a href="">CONTACT US</a></li>
 	</ul>
 

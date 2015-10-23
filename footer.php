@@ -1,3 +1,5 @@
+//footer.php
+
 <?php 
 
 ?>
@@ -11,7 +13,7 @@
 	</ul>
 </footer>
 
-<?php wp_footer();?>
+<?php wp_footer(); ?>
 
 </body>
 </html>
