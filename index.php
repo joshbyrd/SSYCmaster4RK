@@ -1,7 +1,14 @@
+<?php
 
-
+get_header();?>
 <div id="wrapper">
-	
+
+	<nav>
+
+	<?php wp_nav_menu( array('theme_location' => 'main')) ?>
+
+	</nav>
+
 
 <main>
 
@@ -97,3 +104,5 @@
     </figure>
 </aside>
 </div><!--end #wrapper div-->
+
+<?php get_footer();?>
