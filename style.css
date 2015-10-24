@@ -1,16 +1,18 @@
 /*
-<<<<<<< HEAD
-    Theme Name: SSYCmaster
-    Description: The development of this theme is part of the ITC210/WEB210 class project.
-    Author: SSYC-WebTeam
-=======
-This is Luis testing
-
 Theme Name: SSYC
 Author: SSYC Team
 Description: Seattle Singles Yacht Club
-   
->>>>>>> origin/master
+
+Plugins used:
+  Akismet Plugin - http://akismet.com
+    Anti spam plugin Basic free edition
+
+  User Roles Plugin - http://example.com/user_roles
+    Adds the ability to create custom users
+    Used here to restrict access for "Gilligan"
+
+
+
 */
 
 * {
