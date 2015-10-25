@@ -9,6 +9,54 @@ Plugins used:
 
   Updraft plus Plugin - http://updraftplus.com
     Backup and restoration plugin
+
+  X Calendar Express - Email support @ pluginsexpress@basixonline.net
+    Adds an events calendar to the site.
+    Use the "X Calendar" tab in the Dashbord to configure. Add shortcode to place calendar.
+  
+  PHP Everywhere - http://www.alexander-fuchs.net
+    Enables PHP code in widgets, pages and posts.
+    Use shortcode [php_everywhere] before your php code.
+
+  Short Codes Ultimate - http://gndev.info/shortcodes-ultimate/
+    Allows Dashboard users are to customize and add styled features.
+    Use the "<>shortcode" tab in the sidebar to access settings.
+
+  Contact Form 7 - http://contactform7.com
+    Used on the contact page
+    Use Contact tab in the Dashboard to make a new form or custumize.
+
+  Mailchimp Subscribe Form - http://web-settler.com/mailchimp-subscribe-form/
+    Used to add forms to posts.
+    Use the "SM Form" menu to get shortcode and configure.
+
+  Updraft Plus - https://updraftplus.com
+    Adds a Backup feature to site.
+    Use the settings link on the plugin to setup. 
+  
+  WP Ultimate Search - https://mindsharelabs.com
+    Adds a site search feature to search content.
+    Configure from Dashboard.
+
+  Image Pro - http://mihaivalentin.com/image-pro-wordpress-image-management/
+    Used to manage and resize image files.
+    After uploading images image pro menu is in right sidebar.
+  
+  Login Page styler - http://web-settler.com/login-page-styler/
+    Adds custom style to login page.
+    configure login page styler from dashboard 
+
+  My Calendar - https://www.joedolson.com/my-calendar/
+    Adds a customizable calendar on site.
+    My Calendar menu is located in the left sidebar
+  
+  National Weather Service Alerts - https://github.com/laubsterboy/national-weather-service-alerts
+    Adds weather alerts and wornings.
+    Documentation and support on GitHub.
+
+  Us Weather Widget - http://www.willyweather.com
+    Create a weather widget or full a page weather forcast.
+    Customize and configure from Appearance -> widgets menu.
   
 */
 
